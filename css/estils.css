@@ -56,6 +56,10 @@ strong {
     color: #000000;
 }
 
+#menuSuperior{
+    font-size: 1.125rem; /*valor base del navegador por defecto 16px*/
+}
+
 .menuInici ul{
     list-style-type: none;
     margin: 0;
@@ -64,14 +68,13 @@ strong {
 
 .menuInici li{
     list-style-type: none;
-    font-size: 1rem;
     color: #000000;
     padding: 0 0 10px 0;
 }
 
 .iconoMenu {
     display: inline-block;
-    padding: 5px 9px;
+    padding: 15px 9px;
     width: 38px;
     background-color: #5C7362;
     color: #ffffff;
